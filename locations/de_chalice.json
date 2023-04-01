@@ -1,0 +1,95 @@
+[
+    {
+      "name": ["Main Hall", "Stalls"],
+      "description": "Left",
+      "weapon": "weapon_smokegrenade",
+      "position": [-296.42126464844, -686.45031738281, 32.03125],
+      "viewangles": [0.33263421058655, 71.209197998047],
+      "grenade": {
+        "run": 36,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Gate", "Stalls"],
+      "description": "Right",
+      "weapon": "weapon_smokegrenade",
+      "position": [-921.57073974609, 339.576171875, 2.03125],
+      "viewangles": [-8.8973360061646, -13.71743106842],
+      "grenade": {
+        "run": 26
+      }
+    },
+    {
+      "name": ["Corner", "Under"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-991.94940185547, -239.96873474121, 32.021614074707],
+      "viewangles": [-31.511882781982, 25.583246231079],
+      "grenade": {
+        "run": 26
+      }
+    },
+    {
+      "name": ["Corner", "Jiggle"],
+      "weapon": "weapon_molotov",
+      "position": [-991.94940185547, -239.96873474121, 32.031036376953],
+      "viewangles": [-10.606567382813, 11.425359725952],
+      "grenade": {
+        "run": 3
+      }
+    },
+    {
+      "name": ["CT", "Picnic Box"],
+      "weapon": "weapon_molotov",
+      "position": [1005.96875, 583.84686279297, 32.03125],
+      "viewangles": [-9.0759382247925, -154.89086914063],
+      "grenade": {
+        "run": 16
+      }
+    },
+    {
+      "name": ["CT", "Left Far Door"],
+      "weapon": "weapon_molotov",
+      "position": [1005.9694824219, 583.81335449219, 32.03125],
+      "viewangles": [-14.186778068542, -154.9545135498],
+      "grenade": {
+        "run": 60
+      }
+    },
+    {
+      "name": ["Site Corner", "Under"],
+      "weapon": "weapon_molotov",
+      "position": [805.96875, 895.96875, 16.03125],
+      "viewangles": [-4.217529296875, -162.99200439453]
+    },
+    {
+      "name": ["Site Corner", "Left Close Door"],
+      "weapon": "weapon_molotov",
+      "position": [490.03125, 860.64410400391, 16.03125],
+      "viewangles": [-18.19469833374, -108.95639038086]
+    },
+    {
+      "name": ["Stalls", "Haystack"],
+      "weapon": "weapon_molotov",
+      "position": [1009.9979858398, 149.03244018555, 16.03125],
+      "viewangles": [-10.501200675964, 178.677734375],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Stalls", "Double Doors"],
+      "weapon": "weapon_molotov",
+      "position": [1009.9979858398, 149.0308380127, 16.03125],
+      "viewangles": [-13.684679031372, 177.66535949707],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Connector", "Under Watch"],
+      "weapon": "weapon_molotov",
+      "position": [526.12487792969, -479.99630737305, 32.03125],
+      "viewangles": [-23.291585922241, 90.073539733887]
+    }
+  ]
