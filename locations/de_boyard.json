@@ -1,0 +1,45 @@
+[
+    {
+      "name": ["T Spawn", "Site Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-634.22357177734, -1653.8663330078, 0.4365348815918],
+      "viewangles": [-58.708156585693, -158.88150024414]
+    },
+    {
+      "name": ["Under Heaven", "Site"],
+      "weapon": "weapon_flashbang",
+      "position": [-1388.8818359375, -3007.96875, 64.03125],
+      "viewangles": [0.4229032099247, 51.916854858398],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["T", "Default"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-69.667625427246, -984.5302734375, -118.909324646],
+      "viewangles": [-66.716232299805, -121.76010131836],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["T", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [93.819259643555, -1017.5564575195, -117.87043762207],
+      "viewangles": [-57.547370910645, -121.76418304443],
+      "grenade": {
+        "run": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["T", "Site Door"],
+      "weapon": "weapon_smokegrenade",
+      "position": [136.81645202637, -1150.3409423828, -115.7159576416],
+      "viewangles": [-57.427005767822, -142.13607788086],
+      "grenade": {
+        "jump": true
+      }
+    }
+  ]
