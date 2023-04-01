@@ -1,0 +1,69 @@
+[
+    {
+      "name": ["Long", "Balcony"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1311.96875, 1379.03125, 1707.03125],
+      "viewangles": [-59.154434204102, -176.23658752441]
+    },
+    {
+      "name": ["Long", "Site"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1311.9609375, 1379.03125, 1707.03125],
+      "viewangles": [-59.597671508789, 154.9197845459]
+    },
+    {
+      "name": ["Car", "Highway"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1818.142578125, 796.68060302734, 1620.6433105469],
+      "viewangles": [-25.984176635742, 175.11561584473],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long", "New Box"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1318.96875, 1356.03125, 1771.03125],
+      "viewangles": [-45.318702697754, 178.73789978027]
+    },
+    {
+      "name": ["Long", "Electrical"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1318.96875, 1356.03125, 1771.03125],
+      "viewangles": [-50.680408477783, -176.75129699707]
+    },
+    {
+      "name": ["T Spawn", "White Box"],
+      "weapon": "weapon_smokegrenade",
+      "position": [2630.3366699219, 11.508944511414, 1613.03125],
+      "viewangles": [-11.689196586609, 170.72116088867],
+      "grenade": {
+        "run": 31,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Main", "Forklift"],
+      "weapon": "weapon_molotov",
+      "position": [758.96868896484, 1211.6033935547, 1702.03125],
+      "viewangles": [-7.5400257110596, 115.36275482178],
+      "grenade": {
+        "run": 72
+      }
+    },
+    {
+      "name": ["Outside", "Site Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [957.03125, -1464.96875, 1648.03125],
+      "viewangles": [-17.328023910522, 167.62347412109]
+    },
+    {
+      "name": ["Z", "Mid Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-913.40087890625, 220.21569824219, 1614.03125],
+      "viewangles": [11.352397918701, -0.21551132202148],
+      "grenade": {
+        "run": 17
+      }
+    }
+  ]
