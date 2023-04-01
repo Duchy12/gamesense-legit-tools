@@ -1,0 +1,50 @@
+[
+    {
+      "name": ["Long", "Corner"],
+      "weapon": "weapon_smokegrenade",
+      "position": [47.96875, -16.03125, -23.178478240967],
+      "viewangles": [-81.991226196289, -119.83326721191]
+    },
+    {
+      "name": ["Upper Drop", "Drop"],
+      "weapon": "weapon_molotov",
+      "position": [-865.96875, -80.03125, 128.03125],
+      "viewangles": [-1.9750627279282, -56.210945129395]
+    },
+    {
+      "name": ["Long", "Chicken 1 WAY"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-303.96875, -16.03125, -31.96875],
+      "viewangles": [-45.860065460205, -51.357521057129]
+    },
+    {
+      "name": ["Drop", "Site"],
+      "weapon": "weapon_molotov",
+      "position": [-648.61596679688, -706.75457763672, -31.96875],
+      "viewangles": [0.32511016726494, 34.167366027832],
+      "grenade": {
+        "run": 42,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Drop", "Rock"],
+      "weapon": "weapon_molotov",
+      "position": [-648.65747070313, -706.72241210938, -31.96875],
+      "viewangles": [-1.6404589414597, 38.334827423096],
+      "grenade": {
+        "run": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Chicken", "Long"],
+      "weapon": "weapon_smokegrenade",
+      "position": [560.60803222656, -1464.1197509766, -79.96875],
+      "viewangles": [-5.76904296875, 76.016807556152],
+      "grenade": {
+        "run": 11,
+        "jump": true
+      }
+    }
+  ]
