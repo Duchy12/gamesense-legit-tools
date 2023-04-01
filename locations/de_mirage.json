@@ -1,0 +1,64 @@
+[
+    {
+      "name": ["T Spawn", "CT"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1092.7469482422, -1011.2970581055, -257.47232055664],
+      "viewangles": [-28.809728622437, -144.63218688965],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["T Spawn", "Top Connector"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1239.9686279297, -1253.7811279297, -151.96875],
+      "viewangles": [-19.935066223145, -178.52722167969],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["T Spawn", "Connector"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1383.8305664063, 70.997451782227, -167.96875],
+      "viewangles": [-28.021518707275, -156.88800048828],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Underpass", "Short"],
+      "weapon": "weapon_molotov",
+      "position": [-945.03686523438, 352.03125, -367.96875],
+      "viewangles": [-50.772560119629, -163.47261047363]
+    },
+    {
+      "name": ["Underpass", "Short"],
+      "weapon": "weapon_molotov",
+      "position": [-1047.9693603516, -239.89027404785, -367.96875],
+      "viewangles": [-19.838607788086, -72.74340057373],
+      "grenade": {
+        "run": 23,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Underpass", "Ladder Room"],
+      "weapon": "weapon_molotov",
+      "position": [-976.09393310547, -250.57456970215, -367.96875],
+      "viewangles": [-12.807573318481, -105.20924377441],
+      "grenade": {
+        "run": 17,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Underpass", "Cat"],
+      "weapon": "weapon_molotov",
+      "position": [-1043.96875, -374.03125, -348.94943237305],
+      "viewangles": [-2.1647851467133, -67.34854888916],
+      "grenade": {
+        "run": 17
+      }
+    }
+  ]
