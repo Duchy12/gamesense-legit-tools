@@ -1,0 +1,305 @@
+[
+    {
+      "name": ["Wood", "Coffins"],
+      "weapon": "weapon_smokegrenade",
+      "position": [110.82480621338, 1569.5899658203, 132.03125],
+      "viewangles": [-45.330615997314, 76.639907836914]
+    },
+    {
+      "name": ["Wall", "B Entrance"],
+      "weapon": "weapon_smokegrenade",
+      "position": [460.46719360352, 1828.4682617188, 136.12089538574],
+      "viewangles": [-10.931539535522, 49.290252685547]
+    },
+    {
+      "name": ["Outside T", "CT"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-857.97882080078, 437.79028320313, -30.800771713257],
+      "viewangles": [-26.092994689941, 53.975719451904],
+      "grenade": {
+        "run": 12,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Second Mid", "Long"],
+      "weapon": "weapon_smokegrenade",
+      "position": [785.03125, -300.99407958984, 98.935089111328],
+      "viewangles": [-43.152538299561, 56.806560516357]
+    },
+    {
+      "name": ["Short", "Long"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1720.1885986328, -108.96875, 130.6953125],
+      "viewangles": [-12.016322135925, 49.415855407715],
+      "grenade": {
+        "run": 2,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Top Mid", "Site"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1314.0130615234, 829.96875, 148.63572692871],
+      "viewangles": [-24.564519882202, -37.730369567871],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Short", "Library"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1341.03125, 26.03125, 133.54359436035],
+      "viewangles": [-18.663625717163, 43.793907165527],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Second Mid", "Pit"],
+      "weapon": "weapon_smokegrenade",
+      "position": [273.00634765625, -6.8361382484436, 64.596214294434],
+      "viewangles": [-21.994167327881, -0.99681180715561],
+      "grenade": {
+        "run": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Wall", "Dark"],
+      "weapon": "weapon_molotov",
+      "position": [406.12408447266, 1858.8403320313, 226.03125],
+      "viewangles": [-20.158878326416, 103.1897354126]
+    },
+    {
+      "name": ["Banana", "Quad"],
+      "weapon": "weapon_molotov",
+      "position": [479.26138305664, 2017.9686279297, 128.40934753418],
+      "viewangles": [-40.316516876221, 121.83041381836],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Wall", "Coffins"],
+      "weapon": "weapon_molotov",
+      "position": [460.44665527344, 1828.4907226563, 136.11401367188],
+      "viewangles": [0.77400124073029, 86.652557373047],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Banana", "Sandwich"],
+      "weapon": "weapon_molotov",
+      "position": [479.2744140625, 2017.96875, 128.40936279297],
+      "viewangles": [-47.705284118652, 89.777893066406],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Banana", "Yellow Boost"],
+      "weapon": "weapon_molotov",
+      "position": [479.27297973633, 2017.962890625, 128.40879821777],
+      "viewangles": [-47.848274230957, 83.852081298828],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long", "A Site"],
+      "weapon": "weapon_molotov",
+      "position": [1960.3360595703, 1225.96875, 174.03125],
+      "viewangles": [-31.273057937622, -86.831321716309],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Short", "Under Balcony"],
+      "weapon": "weapon_molotov",
+      "position": [1764.96875, -108.96875, 130.07336425781],
+      "viewangles": [-6.7827043533325, 59.848087310791],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Apartments", "Site Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [1491.4193115234, -365.99743652344, 256.03125],
+      "viewangles": [-31.105102539063, -20.75103187561],
+      "duck": true
+    },
+    {
+      "name": ["Outside T", "Banana"],
+      "weapon": "weapon_flashbang",
+      "position": [-653.99432373047, 589.40222167969, 21.037784576416],
+      "viewangles": [-14.596703529358, 58.948154449463],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Banana", "Behind Wall Pop"],
+      "description": "Turn Around",
+      "weapon": "weapon_flashbang",
+      "position": [68.03125, 960.93859863281, 76.03125],
+      "viewangles": [-17.637716293335, 68.958335876465]
+    },
+    {
+      "name": ["Mid", "Long Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [960.52130126953, 589.96594238281, 88.176254272461],
+      "viewangles": [-64.204498291016, -0.28677523136139],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Mid", "Short Pop"],
+      "description": "Also flashes long",
+      "weapon": "weapon_flashbang",
+      "position": [950.80432128906, 434.03125, 88.03125],
+      "viewangles": [-54.008701324463, -3.4075975418091]
+    },
+    {
+      "name": ["Apartments", "1 WAY"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1910.96875, -335.41876220703, 256.03125],
+      "viewangles": [-0.067170105874538, -175.02807617188]
+    },
+    {
+      "name": ["Pit", "1 WAY"],
+      "weapon": "weapon_smokegrenade",
+      "position": [2456.03125, -163.96704101563, 87.03125],
+      "viewangles": [79.253761291504, 175.15284729004],
+      "grenade": {
+        "strength": 0
+      }
+    },
+    {
+      "name": ["Pit", "1 WAY"],
+      "description": "Crouch and step back",
+      "weapon": "weapon_smokegrenade",
+      "position": [2460.03125, -35.03125, 98.03125],
+      "viewangles": [4.6798071861267, -128.24873352051],
+      "grenade": {
+        "strength": 0
+      }
+    },
+    {
+      "name": ["Long", "Apartments"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1935.8319091797, 1225.9798583984, 174.03125],
+      "viewangles": [-39.983032226563, -86.995513916016]
+    },
+    {
+      "name": ["Short", "1 WAY"],
+      "description": "Step on the palette",
+      "weapon": "weapon_smokegrenade",
+      "position": [1892.96875, -64.992324829102, 128.07186889648],
+      "viewangles": [2.3150308132172, 157.24533081055]
+    },
+    {
+      "name": ["Top Mid", "Second Mid"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1517.96875, 792.03125, 139.95431518555],
+      "viewangles": [-15.911436080933, -148.13235473633]
+    },
+    {
+      "name": ["Coffins", "T Pit"],
+      "weapon": "weapon_smokegrenade",
+      "position": [535.96948242188, 3100.0725097656, 206.03125],
+      "viewangles": [0.23997974395752, -102.33255767822],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Wall", "1 WAY"],
+      "description": "CROUCH",
+      "weapon": "weapon_smokegrenade",
+      "position": [388.23635864258, 1840.1801757813, 226.03125],
+      "viewangles": [89, -141.63423156738],
+      "grenade": {
+        "strength": 0
+      },
+      "duck": true
+    },
+    {
+      "name": ["Dark Boost", "1 WAY"],
+      "weapon": "weapon_smokegrenade",
+      "position": [169.9873046875, 3063.96875, 244.03125],
+      "viewangles": [68.333793640137, -42.099426269531],
+      "grenade": {
+        "strength": 0
+      }
+    },
+    {
+      "name": ["Under Boost", "Banana Peek"],
+      "weapon": "weapon_molotov",
+      "position": [601.96875, 2584.03125, 160.03125],
+      "viewangles": [-46.265148162842, -104.76460266113],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Coffins", "Wall"],
+      "weapon": "weapon_molotov",
+      "position": [601.96875, 2884.1862792969, 160.03125],
+      "viewangles": [-33.425457000732, -108.63964080811],
+      "grenade": {
+        "run": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Banana", "Anti-Push"],
+      "weapon": "weapon_molotov",
+      "position": [691.00451660156, 2147.2912597656, 136.03125],
+      "viewangles": [-3.1480529308319, -126.19324493408]
+    },
+    {
+      "name": ["Banana", "Banana Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [610.96875, 1873.0541992188, 134.18980407715],
+      "viewangles": [-46.477222442627, -1.1115282773972]
+    },
+    {
+      "name": ["Ruins", "Banana Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [1130.03125, 2799.2446289063, 128.02899169922],
+      "viewangles": [-26.45795249939, -149.42230224609],
+      "duck": true
+    },
+    {
+      "name": ["Top Mid", "Mid Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [1517.96875, 792.03125, 139.95431518555],
+      "viewangles": [-17.134746551514, -159.80316162109]
+    },
+    {
+      "name": ["Top Mid", "Mid Sniper Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [1517.9694824219, 792.03125, 139.95434570313],
+      "viewangles": [-15.865793228149, -154.8734588623]
+    },
+    {
+      "name": ["Long", "Mid Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [1505.1043701172, 1016.03125, 151.86180114746],
+      "viewangles": [-37.194202423096, -122.53375244141],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Scooter", "Mid Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [2408.6918945313, 492.82611083984, 151.06481933594],
+      "viewangles": [-32.259872436523, 176.62657165527]
+    }
+  ]
