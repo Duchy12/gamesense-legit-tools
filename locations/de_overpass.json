@@ -1,0 +1,125 @@
+[
+    {
+      "name": ["Water", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1559.9991455078, -728.79077148438, 52.191951751709],
+      "viewangles": [-33.613586425781, 96.498054504395]
+    },
+    {
+      "name": ["T Spawn", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-416.03125, -2324.03125, 152.03125],
+      "viewangles": [-5.6036601066589, 114.21705627441],
+      "grenade": {
+        "run": 173,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Water", "Bridge"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1567.96875, -1087.96875, 0.031250476837158],
+      "viewangles": [-38.210319519043, 61.208938598633]
+    },
+    {
+      "name": ["Water", "Walkway"],
+      "description": "RIGHT",
+      "weapon": "weapon_smokegrenade",
+      "position": [-1751.96875, -671.96875, 128.28125],
+      "viewangles": [-32.69172668457, 82.234748840332]
+    },
+    {
+      "name": ["Water", "Walkway"],
+      "description": "LEFT",
+      "weapon": "weapon_smokegrenade",
+      "position": [-1749.8231201172, -671.96875, 128.28125],
+      "viewangles": [-17.546436309814, 90.855056762695]
+    },
+    {
+      "name": ["Water", "Water"],
+      "weapon": "weapon_molotov",
+      "position": [-1559.96875, -728.79302978516, 52.050384521484],
+      "viewangles": [-19.882654190063, 70.554504394531]
+    },
+    {
+      "name": ["Alley", "Short"],
+      "weapon": "weapon_molotov",
+      "position": [-432.00006103516, -2244.8286132813, 146.44915771484],
+      "viewangles": [-20.426431655884, 108.67990875244],
+      "grenade": {
+        "run": 27
+      }
+    },
+    {
+      "name": ["Alley", "Short"],
+      "weapon": "weapon_molotov",
+      "position": [-501.43017578125, -1732.5245361328, 144.48733520508],
+      "viewangles": [3.3245737552643, 112.79250335693],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Alley", "Divider"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-594.23370361328, -1798.2434082031, 145.01606750488],
+      "viewangles": [-24.045787811279, 144.8956451416],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Toilet", "Dumpster"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2322.6682128906, -736.74591064453, 406.03125],
+      "viewangles": [-45.06233215332, 79.109115600586]
+    },
+    {
+      "name": ["Toilet", "Default"],
+      "weapon": "weapon_molotov",
+      "position": [-2279.9975585938, -611.65032958984, 385.04849243164],
+      "viewangles": [-0.74094134569168, 100.60972595215],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Toilet", "Optimus"],
+      "weapon": "weapon_molotov",
+      "position": [-2351.9704589844, -773.47003173828, 429.90625],
+      "viewangles": [-1.1641427278519, 79.140251159668],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Toilet", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2434.1928710938, -1040.0275878906, 428.58828735352],
+      "viewangles": [-24.725912094116, 60.146751403809]
+    },
+    {
+      "name": ["Dumpster", "Monster"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2041.3076171875, 898.96813964844, 480.03125],
+      "viewangles": [-14.989469528198, -48.599323272705],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Walkway", "Top Tracks"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2022.96875, -48.03125, 139.69827270508],
+      "viewangles": [-14.696551322937, -44.979507446289],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Walkway Door", "Default"],
+      "weapon": "weapon_molotov",
+      "position": [-1894.4122314453, 263.17126464844, 160.03125],
+      "viewangles": [-27.676683425903, -23.414236068726]
+    }
+  ]
