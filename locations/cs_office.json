@@ -1,0 +1,65 @@
+[
+    {
+      "name": ["T Spawn", "Side Hall"],
+      "description": "DESTROY THE GLASS FIRST",
+      "weapon": "weapon_molotov",
+      "position": [1626.8422851563, 769.34802246094, -117.0425567627],
+      "viewangles": [6.6538610458374, 55.459667205811]
+    },
+    {
+      "name": ["Elevators", "Mid"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1053.96875, -610.01293945313, -159.96875],
+      "viewangles": [-1.4286600351334, 110.5020904541]
+    },
+    {
+      "name": ["Elevators", "Paper"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1053.96875, -610.03857421875, -159.96875],
+      "viewangles": [-1.9134255647659, 131.60507202148]
+    },
+    {
+      "name": ["Garage Yard", "Mid"],
+      "weapon": "weapon_smokegrenade",
+      "position": [989.58184814453, -1539.9971923828, -320.39672851563],
+      "viewangles": [-23.727691650391, 91.248573303223],
+      "grenade": {
+        "run": 29
+      }
+    },
+    {
+      "name": ["Side Hall", "Fish Bowl"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1535.9951171875, 976.89184570313, -159.96875],
+      "viewangles": [-0.72781014442444, -126.52539825439]
+    },
+    {
+      "name": ["Soda", "Main Hall Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [173.96882629395, -120.69445037842, -159.96875],
+      "viewangles": [-26.206638336182, -86.442291259766],
+      "grenade": {
+        "strength": 0.5
+      },
+      "duck": true
+    },
+    {
+      "name": ["Main Windows", "Main Hall Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-336.17059326172, -575.98559570313, -228.80815124512],
+      "viewangles": [-78.186584472656, -93.543647766113],
+      "grenade": {
+        "strength": 0.5
+      },
+      "duck": true
+    },
+    {
+      "name": ["Tree", "Bathroom"],
+      "weapon": "weapon_molotov",
+      "position": [-912.19366455078, -609.54656982422, -308.21905517578],
+      "viewangles": [-23.641456604004, 8.357795715332],
+      "grenade": {
+        "run": 20
+      }
+    }
+  ]
