@@ -1,0 +1,106 @@
+[
+    {
+      "name": ["T Spawn", "Yard 2"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1268.03125, -1162.2087402344, -416.00534057617],
+      "viewangles": [-45.597023010254, -24.169038772583],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["T Spawn", "Yard 3"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-727.31811523438, -1322.2750244141, -407.96875],
+      "viewangles": [-9.9893522262573, -22.557907104492],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["T Spawn", "Yard 1"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-682.9814453125, -1267.0445556641, -415.96875],
+      "viewangles": [-5.1542687416077, -53.979446411133],
+      "grenade": {
+        "run": 70
+      }
+    },
+    {
+      "name": ["Roof", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-113.08969116211, -1184.3264160156, -155.46875],
+      "viewangles": [0.52971839904785, 32.641742706299],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Heaven", "1 WAY"],
+      "description": "ONLY PARTIAL",
+      "weapon": "weapon_smokegrenade",
+      "position": [1058.0202636719, -512.03125, -239.96875],
+      "viewangles": [55.553520202637, 156.48066711426],
+      "grenade": {
+        "strength": 0
+      }
+    },
+    {
+      "name": ["Secret", "1 WAY"],
+      "description": "Jump on the railing",
+      "weapon": "weapon_smokegrenade",
+      "position": [1296.5617675781, -2136.03125, -367.96875],
+      "viewangles": [11.977868080139, -77.249168395996],
+      "grenade": {
+        "strength": 0
+      }
+    },
+    {
+      "name": ["Outside", "Close Garage"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-284.16156005859, -1961.1859130859, -415.96875],
+      "viewangles": [-4.5859875679016, 7.7567067146301],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Outside", "Far Garage"],
+      "weapon": "weapon_smokegrenade",
+      "position": [28.361442565918, -2006.6887207031, -415.96875],
+      "viewangles": [-21.664722442627, 11.361748695374]
+    },
+    {
+      "name": ["Box", "1 WAY"],
+      "description": "Walk a bit back",
+      "weapon": "weapon_smokegrenade",
+      "position": [491.96875, 328.03125, -414.96875],
+      "viewangles": [-44.359752655029, -153.37449645996],
+      "grenade": {
+        "strength": 0
+      }
+    },
+    {
+      "name": ["Tunnel", "1 WAY"],
+      "weapon": "weapon_smokegrenade",
+      "position": [34.016857147217, -1671.96875, -767.96875],
+      "viewangles": [-13.543526649475, 12.948215484619]
+    },
+    {
+      "name": ["Control", "Hiding Spot"],
+      "weapon": "weapon_molotov",
+      "position": [1388.6798095703, -777.67919921875, -689.08190917969],
+      "viewangles": [-17.789590835571, 141.20195007324],
+      "grenade": {
+        "strength": 0.5,
+        "run": 69
+      },
+      "duck": true
+    },
+    {
+      "name": ["Control", "Right Ramp Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [1391.96875, -826.14349365234, -721.39141845703],
+      "viewangles": [-8.1023206710815, 131.91510009766]
+    }
+  ]
