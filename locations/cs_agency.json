@@ -1,0 +1,99 @@
+[
+    {
+      "name": ["Lobby", "Long Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-767.20324707031, -786.03485107422, 324.03125],
+      "viewangles": [-5.5788025856018, 165.07258605957],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Stairs", "Long"],
+      "weapon": "weapon_molotov",
+      "position": [-1659.4722900391, 619.96875, 450.298828125],
+      "viewangles": [-5.5786476135254, -55.301769256592]
+    },
+    {
+      "name": ["Back Room", "Long Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-1260.2456054688, 1007.9690551758, 512.03125],
+      "viewangles": [-1.896985411644, -63.799892425537],
+      "grenade": {
+        "run": 41
+      }
+    },
+    {
+      "name": ["Heaven", "Entrance"],
+      "weapon": "weapon_molotov",
+      "position": [-218.98226928711, 1312.0721435547, 552.03125],
+      "viewangles": [5.8770322799683, -69.098976135254]
+    },
+    {
+      "name": ["Connector", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-115.96640777588, 923.96862792969, 320.03125],
+      "viewangles": [-9.1672248840332, 10.75522518158],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Boost", "Main Door"],
+      "weapon": "weapon_molotov",
+      "position": [-977.83959960938, -263.96875, 550.28326416016],
+      "viewangles": [-4.1180629730225, 66.309913635254],
+      "grenade": {
+        "run": 4
+      }
+    },
+    {
+      "name": ["Boost", "Back Door"],
+      "description": "Break the glass first",
+      "weapon": "weapon_molotov",
+      "position": [-875.42553710938, -210.59375, 512.03125],
+      "viewangles": [-8.4682083129883, 107.05316925049]
+    },
+    {
+      "name": ["Boost", "Back Door"],
+      "description": "Break the glass first",
+      "weapon": "weapon_hegrenade",
+      "position": [-875.42553710938, -210.59375, 512.03125],
+      "viewangles": [-8.513744354248, 107.0382232666]
+    },
+    {
+      "name": ["Boost", "Main"],
+      "weapon": "weapon_flashbang",
+      "position": [-881.12042236328, -37.231937408447, 512.03125],
+      "viewangles": [-43.07498550415, 52.665180206299],
+      "grenade": {
+        "strength": 0.5
+      },
+      "duck": true
+    },
+    {
+      "name": ["Boost", "Stairs"],
+      "weapon": "weapon_molotov",
+      "position": [-694.03125, -49.848644256592, 512.03125],
+      "viewangles": [-13.831739425659, 153.42304992676]
+    },
+    {
+      "name": ["Back Room", "Anti Push"],
+      "description": "Break the window",
+      "weapon": "weapon_molotov",
+      "position": [-1244.1834716797, 1007.96875, 512.03125],
+      "viewangles": [-8.3939123153687, -69.182411193848],
+      "grenade": {
+        "run": 46
+      }
+    },
+    {
+      "name": ["Stairs", "Boost"],
+      "weapon": "weapon_molotov",
+      "position": [-1659.5617675781, 619.96875, 450.25402832031],
+      "viewangles": [-16.005407333374, -35.796318054199],
+      "grenade": {
+        "run": 5
+      }
+    }
+  ]
