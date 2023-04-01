@@ -1,0 +1,185 @@
+[
+  {
+    "name": ["Ruins Corner", "Evo"],
+    "weapon": "weapon_molotov",
+    "position": [1255.96875, -1479.9986572266, 30.023887634277],
+    "viewangles": [-5.0675234794617, 114.25042724609],
+    "grenade": {
+      "delay": 2,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ruins Corner", "Side Entrance"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1255.96875, -1479.96875, 30.014329910278],
+    "viewangles": [-5.2855710983276, 110.23738098145],
+    "grenade": {
+      "delay": 2,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ruins Corner", "Long"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1255.9995117188, -1479.96875, 30.022506713867],
+    "viewangles": [-9.8932390213013, 90.113861083984],
+    "grenade": {
+      "delay": 3,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ruin Corner", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1255.96875, -1479.96875, 30.007461547852],
+    "viewangles": [-9.9171981811523, 109.50743103027],
+    "grenade": {
+      "delay": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["T Spawn", "Top Mid"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-632.00787353516, -2038.0346679688, -146.96875],
+    "viewangles": [-27.861949920654, 86.684783935547],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Connector", "Top Mid"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-938.07141113281, -851.98309326172, 35.196884155273],
+    "viewangles": [-27.136735916138, 66.162666320801]
+  },
+  {
+    "name": ["T Spawn", "Cave"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-735.98388671875, -2135.96875, -164.16593933105],
+    "viewangles": [-27.720767974854, 65.923492431641],
+    "grenade": {
+      "run": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Split", "Donut"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1950.3743896484, -819.65405273438, 24.552072525024],
+    "viewangles": [-32.685020446777, 74.618583679199],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Split", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1950.3927001953, -819.64147949219, 24.527849197388],
+    "viewangles": [-39.210594177246, 66.136650085449],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Split", "Back Hall"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1648.6279296875, -1423.6217041016, -31.035917282104],
+    "viewangles": [-24.850517272949, 88.98656463623],
+    "grenade": {
+      "run": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["A Split", "Back Site Box"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-1648.6395263672, -1423.6042480469, -31.035373687744],
+    "viewangles": [-24.319427490234, 98.357368469238],
+    "grenade": {
+      "run": 9,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Mid Box", "CT"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-284.03125, -814.88250732422, 38.086822509766],
+    "viewangles": [-28.898683547974, 115.88043212891],
+    "grenade": {
+      "run": 1,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Mid Box", "Cubby"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-284.03115844727, -814.84405517578, 38.083869934082],
+    "viewangles": [-19.137094497681, 128.96803283691]
+  },
+  {
+    "name": ["Mid Box", "Jungle"],
+    "weapon": "weapon_molotov",
+    "position": [-284.03897094727, -815.08776855469, 38.098865509033],
+    "viewangles": [-49.59635925293, 87.239387512207],
+    "grenade": {
+      "strength": 0.5,
+      "run": 3
+    }
+  },
+  {
+    "name": ["T Side Upper", "Long"],
+    "weapon": "weapon_smokegrenade",
+    "position": [64.035484313965, -903.99743652344, 156.03117370605],
+    "viewangles": [-35.06481552124, 41.214706420898],
+    "grenade": {
+      "run": 3,
+      "delay": 9,
+      "jump": true,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["T Side Upper", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [511.96875, -903.96875, 130.11268615723],
+    "viewangles": [-53.110389709473, 79.316764831543]
+  },
+  {
+    "name": ["CT", "Ramp"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-647.96875, 1771.96875, 31.966445922852],
+    "viewangles": [-12.146175384521, -44.650829315186],
+    "grenade": {
+      "run": 17,
+      "jump": true
+    }
+  },
+  {
+    "name": ["CT", "A Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-66.03125, 1771.96875, 37.461952209473],
+    "viewangles": [-11.199675559998, -144.00225830078],
+    "grenade": {
+      "run": 5,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Alley", "Short"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-13.96702671051, 904.09057617188, 70.168083190918],
+    "viewangles": [-19.829725265503, -8.8510808944702],
+    "grenade": {
+      "run": 10,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Connector", "Cubby"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-938.08154296875, -851.97735595703, 35.180671691895],
+    "viewangles": [-70.391288757324, 88.033264160156]
+  }
+]
