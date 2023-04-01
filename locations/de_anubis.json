@@ -1,0 +1,175 @@
+[
+    {
+      "name": ["Boat", "Connector"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1259.96875, 600.03125, -115.96875],
+      "viewangles": [-20.41517829895, 125.2943649292]
+    },
+    {
+      "name": ["Boat", "Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1213.96875, 489.01049804688, -151.96875],
+      "viewangles": [-36.95666885376, 96.214965820313],
+      "grenade": {
+        "run": 121,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Ruins", "Palace"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1444.5847167969, -371.40664672852, 108.17538452148],
+      "viewangles": [-30.988668441772, 66.281845092773]
+    },
+    {
+      "name": ["Ruins", "Alley"],
+      "description": "Lil crack on the right",
+      "weapon": "weapon_smokegrenade",
+      "position": [-1326.8414306641, -486.16662597656, 96.03125],
+      "viewangles": [-31.391386032104, 81.465866088867]
+    },
+    {
+      "name": ["Ruins", "Connector"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-906.62683105469, -512.13891601563, 62.213439941406],
+      "viewangles": [-36.373336791992, 119.35991668701]
+    },
+    {
+      "name": ["T Spawn", "Mid"],
+      "weapon": "weapon_smokegrenade",
+      "position": [82.404853820801, -1759.96875, 2.03125],
+      "viewangles": [-14.017437934875, 94.647094726563],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Street", "Connector"],
+      "weapon": "weapon_smokegrenade",
+      "position": [837.96875, -763.99987792969, -4.2824730873108],
+      "viewangles": [-9.5262718200684, 135.13018798828],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Connector", "Mid"],
+      "weapon": "weapon_molotov",
+      "position": [-446.70739746094, 301.9697265625, -112.05772399902],
+      "viewangles": [-43.281185150146, -53.300308227539]
+    },
+    {
+      "name": ["Ruins", "Deep Mid"],
+      "weapon": "weapon_molotov",
+      "position": [-527.51873779297, -340.0319519043, 66.03125],
+      "viewangles": [-15.959634780884, 63.583946228027]
+    },
+    {
+      "name": ["Deep Mid", "Walkway"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-203.96875, 440.03146362305, 16.03125],
+      "viewangles": [0.031533904373646, 57.178974151611]
+    },
+    {
+      "name": ["Boat", "Left Heaven"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1213.96875, 489.03125, -151.96875],
+      "viewangles": [-23.310749053955, 115.7660446167]
+    },
+    {
+      "name": ["Boat", "Heaven"],
+      "weapon": "weapon_molotov",
+      "position": [1213.96875, 489.02380371094, -151.96875],
+      "viewangles": [-2.9894227981567, 96.854270935059],
+      "grenade": {
+        "run": 21,
+        "jump": true,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["CT Upper", "Boat"],
+      "description": "Creates a 1W on the box",
+      "weapon": "weapon_smokegrenade",
+      "position": [-368.9528503418, 2360.9133300781, 24.03125],
+      "viewangles": [-42.002384185791, -43.737525939941],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT Upper", "Mid"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-265.99310302734, 2395.9929199219, 24.03125],
+      "viewangles": [-44.925342559814, -86.077949523926],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT Upper", "B Main"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-164.03125, 2395.9953613281, 24.03125],
+      "viewangles": [-41.662593841553, -123.39949035645],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["B Site", "Ruins"],
+      "weapon": "weapon_flashbang",
+      "position": [-1587.3703613281, 756.58471679688, 38.03125],
+      "viewangles": [-12.379173278809, -61.229804992676],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Backsite", "Ruins"],
+      "weapon": "weapon_flashbang",
+      "position": [-959.99401855469, 744.03125, -1.96875],
+      "viewangles": [-16.477674484253, -100.52421569824],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ruins", "Site Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-1267.9739990234, -311.77499389648, 5.4644355773926],
+      "viewangles": [-44.734233856201, 79.688247680664]
+    },
+    {
+      "name": ["Street", "Connector"],
+      "weapon": "weapon_smokegrenade",
+      "position": [223.03125, -715.96875, -0.094033405184746],
+      "viewangles": [-53.383296966553, 117.17587280273]
+    },
+    {
+      "name": ["Middle", "Middle Door"],
+      "weapon": "weapon_smokegrenade",
+      "position": [391.99185180664, 1476.8391113281, -5.3244075775146],
+      "viewangles": [-51.328857421875, -110.02268218994]
+    },
+    {
+      "name": ["Boat", "Site"],
+      "weapon": "weapon_molotov",
+      "position": [732.03125, 520.03125, -151.96875],
+      "viewangles": [-22.548793792725, 77.780258178711]
+    },
+    {
+      "name": ["Boat", "Backsite"],
+      "weapon": "weapon_molotov",
+      "position": [732.03125, 520.03125, -151.96875],
+      "viewangles": [-21.563501358032, 78.855201721191],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Ruins", "Site"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1016.0006713867, -199.83863830566, 0.03125],
+      "viewangles": [-47.322490692139, 125.62506103516]
+    }
+  ]
