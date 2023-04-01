@@ -1,4 +1,7 @@
-# nade-locs
+# WIP
+Take into consideration that this project is still in its early stages
+
+## nade-locs
 This is a collection of mainly legit nade locations
 
 
