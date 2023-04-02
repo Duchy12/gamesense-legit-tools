@@ -1,0 +1,60 @@
+[
+    {
+      "name": ["Tunnel", "Window"],
+      "weapon": "weapon_smokegrenade",
+      "position": [523.71661376953, 1325.96875, 32.03125],
+      "viewangles": [-4.9544100761414, -144.99197387695]
+    },
+    {
+      "name": ["Street", "Cat"],
+      "weapon": "weapon_molotov",
+      "position": [748.96875, 858.03753662109, 10.149360656738],
+      "viewangles": [2.7103047370911, -179.24493408203],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT", "Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-239.73808288574, -232.13705444336, 0.03125],
+      "viewangles": [-23.612598419189, 127.02131652832]
+    },
+    {
+      "name": ["Box", "Corner"],
+      "weapon": "weapon_molotov",
+      "position": [-1247.96875, 1263.96875, -101.55474853516],
+      "viewangles": [3.7845635414124, -39.969619750977],
+      "grenade": {
+        "run": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ladder", "T Tunnel"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-359.96875, 1935.96875, 32.03125],
+      "viewangles": [-2.8462171554565, -32.273036956787],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Ladder", "CT Tunnel"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-413.03359985352, 1911.96875, 32.03125],
+      "viewangles": [-0.036507904529572, -28.523584365845]
+    },
+    {
+      "name": ["Outside Ladder", "Window"],
+      "weapon": "weapon_molotov",
+      "position": [-111.96875, 1989.4285888672, 32.03125],
+      "viewangles": [-7.4125866889954, -84.210723876953]
+    },
+    {
+      "name": ["Cat", "Long Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-1141.1959228516, 1532.96875, 0.03125],
+      "viewangles": [-33.413112640381, -61.77486038208]
+    }
+  ]
