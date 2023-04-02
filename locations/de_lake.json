@@ -1,0 +1,97 @@
+[
+    {
+      "name": ["CT", "Rocks"],
+      "description": "50HP",
+      "weapon": "weapon_hegrenade",
+      "position": [2230.2927246094, -4047.6357421875, -205.82180786133],
+      "viewangles": [7.3107919692993, 13.638052940369],
+      "grenade": {
+        "run": 65,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Rocks", "Garage Rock"],
+      "weapon": "weapon_molotov",
+      "position": [4110.0322265625, -3455.2385253906, -150.63536071777],
+      "viewangles": [3.318386554718, -174.54075622559],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Tree", "Garage Roof"],
+      "weapon": "weapon_molotov",
+      "position": [4428.12890625, -3860.5854492188, -215.33343505859],
+      "viewangles": [-0.52852606773376, 158.79286193848],
+      "grenade": {
+        "run": 54,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Basement", "Site"],
+      "weapon": "weapon_molotov",
+      "position": [3926.7624511719, -4115.99609375, -241.41882324219],
+      "viewangles": [-33.129959106445, -100.77112579346]
+    },
+    {
+      "name": ["Small Rocks", "Double Doors"],
+      "weapon": "weapon_molotov",
+      "position": [4733.3813476563, -3835.533203125, -218.16534423828],
+      "viewangles": [-22.355047225952, -142.30990600586]
+    },
+    {
+      "name": ["Stairs", "Window Bay"],
+      "weapon": "weapon_molotov",
+      "position": [3171.0065917969, -4431.4653320313, -167.96875],
+      "viewangles": [-35.0231590271, 8.0439872741699]
+    },
+    {
+      "name": ["Site", "Window Bay"],
+      "weapon": "weapon_molotov",
+      "position": [3952.03125, -4133.3120117188, -71.96875],
+      "viewangles": [-38.950649261475, -135.43354797363],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Stairs", "Window Bay"],
+      "weapon": "weapon_molotov",
+      "position": [3889.955078125, -4384.1484375, -71.96875],
+      "viewangles": [-28.498069763184, 168.88011169434],
+      "duck": true
+    },
+    {
+      "name": ["Wood", "Rocks"],
+      "weapon": "weapon_smokegrenade",
+      "position": [4924.89453125, -3309.609375, -162.83050537109],
+      "viewangles": [-8.5594882965088, -161.62617492676]
+    },
+    {
+      "name": ["T", "Front Porch"],
+      "weapon": "weapon_smokegrenade",
+      "position": [5184.03125, -3335.03125, -161.77307128906],
+      "viewangles": [-26.101428985596, -155.5036315918]
+    },
+    {
+      "name": ["Basement", "Cross To Site"],
+      "description": "Run Up The Stair",
+      "weapon": "weapon_smokegrenade",
+      "position": [3911.96875, -4353.9912109375, -247.96875],
+      "viewangles": [-31.660877227783, -154.91418457031]
+    },
+    {
+      "name": ["Tree", "Double Doors"],
+      "weapon": "weapon_smokegrenade",
+      "position": [4479.1499023438, -3911.3715820313, -227.88531494141],
+      "viewangles": [-23.685476303101, -132.13606262207]
+    },
+    {
+      "name": ["Small Rocks", "Under Window Bay"],
+      "weapon": "weapon_smokegrenade",
+      "position": [4733.3813476563, -3835.533203125, -218.17373657227],
+      "viewangles": [-35.469966888428, -156.85198974609]
+    }
+  ]
