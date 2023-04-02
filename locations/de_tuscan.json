@@ -1,0 +1,250 @@
+[
+    {
+      "name": ["Snake Tail", "Snake"],
+      "weapon": "weapon_flashbang",
+      "position": [-3597.0087890625, -1165.4006347656, -203.56201171875],
+      "viewangles": [-42.656383514404, -50.385383605957],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Snake", "Snake Arch"],
+      "weapon": "weapon_flashbang",
+      "position": [-3382.0034179688, -1472.9693603516, -150.61175537109],
+      "viewangles": [-52.001350402832, -32.827953338623],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["T Base Mid", "Mid"],
+      "weapon": "weapon_flashbang",
+      "position": [-2321.0341796875, 148.41864013672, -150.96875],
+      "viewangles": [-0.079958662390709, -97.043647766113],
+      "grenade": {
+        "run": 28,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Action", "Connector"],
+      "weapon": "weapon_flashbang",
+      "position": [-1431.03125, -1021.2017211914, -206.96875],
+      "viewangles": [-36.513187408447, -134.70776367188],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Banana", "Arch"],
+      "weapon": "weapon_flashbang",
+      "position": [-3864.2282714844, -817.92236328125, -155.00456237793],
+      "viewangles": [-19.670053482056, -117.95515441895]
+    },
+    {
+      "name": ["Banana", "B Corner Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-3864.2282714844, -817.92236328125, -155.00456237793],
+      "viewangles": [-19.710313796997, -94.028190612793],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hell", "Window"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-3091.3840332031, -1010.028137207, -152.09745788574],
+      "viewangles": [-47.020523071289, -85.287757873535],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Snake Tail", "Window"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-3593.3232421875, -1409.0587158203, -159.90528869629],
+      "viewangles": [-59.171466827393, -42.740142822266]
+    },
+    {
+      "name": ["Snake Tail", "B Corner"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-3382.0307617188, -1216.73046875, -204.04618835449],
+      "viewangles": [-51.397548675537, -131.51724243164],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Snake Tail", "Underwood"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-3382.0307617188, -1216.73046875, -204.04618835449],
+      "viewangles": [-65.274612426758, -114.78100585938]
+    },
+    {
+      "name": ["Hell", "Right Default"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2855.40625, -1010.0397338867, -206.96875],
+      "viewangles": [-40.733913421631, -145.78388977051],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hell", "Left Default"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2855.4384765625, -1010.0397338867, -206.96875],
+      "viewangles": [-43.458251953125, -136.59251403809],
+      "grenade": {
+        "recovery_jump": true,
+        "delay": 4,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Banana", "Under Balcony"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-3864.2282714844, -817.92218017578, -155.00456237793],
+      "viewangles": [-19.881454467773, -117.79986572266],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hell", "Balcony"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2855.4096679688, -1010.0355834961, -206.96875],
+      "viewangles": [-40.500854492188, -129.40351867676],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Action", "Door To Under"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1728.0087890625, -432.03125, -206.96875],
+      "viewangles": [-27.651319503784, -87.428489685059],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Action", "Site"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1171.03125, -646.03125, -206.96875],
+      "viewangles": [-46.273826599121, -118.84865570068],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Kitty", "Site"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1185.8958740234, -1993.6951904297, -94.044769287109],
+      "viewangles": [-12.090792655945, -151.41839599609]
+    },
+    {
+      "name": ["Mid", "Left Cross"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2595.9956054688, -1366.0147705078, -206.96875],
+      "viewangles": [-21.484970092773, -85.165550231934]
+    },
+    {
+      "name": ["Mid", "Right Cross"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-2333.5893554688, -1455.96875, -206.96875],
+      "viewangles": [-27.251474380493, -98.382751464844]
+    },
+    {
+      "name": ["CT", "T Base Mid"],
+      "weapon": "weapon_molotov",
+      "position": [-2524.5769042969, -2603.96875, -89.617568969727],
+      "viewangles": [4.626925945282, 85.74243927002],
+      "grenade": {
+        "run": 177,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Corner", "Arch"],
+      "weapon": "weapon_molotov",
+      "position": [-1310.0004882813, -2473.03125, -94.96875],
+      "viewangles": [-15.231120109558, -168.96803283691],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["CT Arch", "Arch"],
+      "weapon": "weapon_molotov",
+      "position": [-2439.5834960938, -2611.5434570313, -89.18627166748],
+      "viewangles": [-14.908898353577, 21.070789337158]
+    },
+    {
+      "name": ["Bridge", "Snake Arch"],
+      "weapon": "weapon_molotov",
+      "position": [-3886.4077148438, -2616.0166015625, 113.03125],
+      "viewangles": [-3.6304681301117, 45.399700164795]
+    },
+    {
+      "name": ["Window", "Snake Arch"],
+      "weapon": "weapon_molotov",
+      "position": [-3161.892578125, -2253.3247070313, 49.03125],
+      "viewangles": [-10.25657749176, 41.572830200195]
+    },
+    {
+      "name": ["Snake", "Window"],
+      "weapon": "weapon_molotov",
+      "position": [-3243.4133300781, -1492.0074462891, -115.85590362549],
+      "viewangles": [-25.96667098999, -50.752323150635]
+    },
+    {
+      "name": ["Sniper Box", "Snake Head"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-4633.96875, -2398.03125, -46.991416931152],
+      "viewangles": [-37.909759521484, 18.929664611816],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Balcony", "Banana Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-3955.03125, -2444.96875, 114.03125],
+      "viewangles": [-20.307367324829, 107.30168151855]
+    },
+    {
+      "name": ["Sniper Box", "Banana"],
+      "weapon": "weapon_flashbang",
+      "position": [-4571.96875, -2316.03125, 16.03125],
+      "viewangles": [-5.1882042884827, 57.427810668945]
+    },
+    {
+      "name": ["Highway", "Deep Banana"],
+      "description": "Cuts Off Pushes",
+      "weapon": "weapon_smokegrenade",
+      "position": [-3398.03125, -2963.96875, -69.96875],
+      "viewangles": [-22.145992279053, 122.0777130127],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT", "Connector Pop"],
+      "weapon": "weapon_flashbang",
+      "position": [-2524.4020996094, -2603.1186523438, -89.667572021484],
+      "viewangles": [11.409373283386, 80.685066223145],
+      "grenade": {
+        "run": 1,
+        "jump": true
+      }
+    }
+  ]
