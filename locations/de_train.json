@@ -1,0 +1,152 @@
+[
+    {
+      "name": ["Site Corner", "Main Deep"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1007.96875, 112.03125, -215.96875],
+      "viewangles": [-3.5289719104767, 165.72596740723],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Site Corner", "Main"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1007.96875, 112.03125, -215.96875],
+      "viewangles": [-1.978187084198, 164.77717590332],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Site Corner", "PopDog"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1007.96875, 112.03125, -215.96875],
+      "viewangles": [-43.530658721924, -166.74624633789]
+    },
+    {
+      "name": ["Train Corner", "PopDog"],
+      "weapon": "weapon_smokegrenade",
+      "position": [958.96875, 735.96875, -211.96875],
+      "viewangles": [-38.395042419434, -143.66619873047]
+    },
+    {
+      "name": ["Site", "PopDog"],
+      "weapon": "weapon_molotov",
+      "position": [609.19403076172, 8.7517080307007, -131.65623474121],
+      "viewangles": [-12.817235946655, -162.15473937988]
+    },
+    {
+      "name": ["T Box", "Olof"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-555.03125, 1262.03125, -212.59478759766],
+      "viewangles": [-67.557975769043, -53.96231842041]
+    },
+    {
+      "name": ["T Box", "Z"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-444.32818603516, 1236.03125, -86.902038574219],
+      "viewangles": [-29.996963500977, -58.715480804443]
+    },
+    {
+      "name": ["Stairs", "Second Tunnel"],
+      "description": "Break Window First",
+      "weapon": "weapon_smokegrenade",
+      "position": [-640.31158447266, -583.66235351563, 16.03125],
+      "viewangles": [-46.870361328125, 14.792808532715]
+    },
+    {
+      "name": ["Stairs", "Ivy"],
+      "description": "Break Window First",
+      "weapon": "weapon_smokegrenade",
+      "position": [-655.84820556641, -449.67370605469, 16.03125],
+      "viewangles": [-38.231288909912, 29.009386062622]
+    },
+    {
+      "name": ["T Spawn", "Electrical"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-481.869140625, 1724.990234375, -209.96875],
+      "viewangles": [-44.655883789063, -78.598846435547]
+    },
+    {
+      "name": ["Pigeons", "Ivy Right"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1388.9819335938, 1446.0367431641, -223.96875],
+      "viewangles": [-7.7799248695374, -98.09188079834]
+    },
+    {
+      "name": ["Pigeons", "Ivy Left"],
+      "weapon": "weapon_smokegrenade",
+      "position": [1535.96875, 1775.96875, -223.98202514648],
+      "viewangles": [-9.9349002838135, -112.39125061035],
+      "grenade": {
+        "run": 79
+      }
+    },
+    {
+      "name": ["T Spawn", "Brown"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-828.22253417969, 1268.03125, -222.96875],
+      "viewangles": [-46.066036224365, -45.746849060059]
+    },
+    {
+      "name": ["T Box", "Bomb Train Left"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-453.35772705078, 1286.3448486328, -86.553314208984],
+      "viewangles": [-24.770790100098, -60.345207214355]
+    },
+    {
+      "name": ["Stairs", "Z B"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-653.96514892578, -479.82232666016, 16.03125],
+      "viewangles": [-41.449604034424, -9.9377317428589]
+    },
+    {
+      "name": ["Brown Halls", "Deep Cross"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1159.9969482422, -1048.03125, -95.96875],
+      "viewangles": [-14.805892944336, -2.9816110134125]
+    },
+    {
+      "name": ["Brown Halls", "White"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1155.9499511719, -890.14227294922, -95.96875],
+      "viewangles": [22.010019302368, 1.40622651577]
+    },
+    {
+      "name": ["Brown Halls", "Left Site"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1055.96875, -1607.9822998047, -151.96875],
+      "viewangles": [-8.361159324646, -25.184108734131],
+      "grenade": {
+        "run": 9
+      }
+    },
+    {
+      "name": ["Long", "Upper B"],
+      "weapon": "weapon_smokegrenade",
+      "position": [-1055.9914550781, -1636.9305419922, -151.96875],
+      "viewangles": [-9.1667957305908, -13.039711952209]
+    },
+    {
+      "name": ["Main", "Z"],
+      "weapon": "weapon_molotov",
+      "position": [-671.38006591797, 617.96875, -215.96875],
+      "viewangles": [-18.250005722046, -36.422740936279]
+    },
+    {
+      "name": ["T Box", "Electrical"],
+      "weapon": "weapon_molotov",
+      "position": [-526.91125488281, 1328.0638427734, -86.902038574219],
+      "viewangles": [-23.13941192627, -70.770294189453]
+    },
+    {
+      "name": ["Pigeons", "Ivy"],
+      "description": "Cubby",
+      "weapon": "weapon_molotov",
+      "position": [1535.96875, 1775.96875, -223.96875],
+      "viewangles": [-10.531798362732, -112.68138885498],
+      "grenade": {
+        "run": 69
+      }
+    }
+  ]
