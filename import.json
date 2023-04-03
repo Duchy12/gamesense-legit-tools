@@ -1,5 +1,5 @@
 {
         "name": "Legits",
-        "description":"Nade data by Duchy",
+        "description": "Nade data by Duchy",
         "url_format": "https://raw.githubusercontent.com/Duchy12/nade-locs/main/locations/%map%.json"
 }
