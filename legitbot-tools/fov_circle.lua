@@ -1,3 +1,5 @@
+--https://github.com/Duchy12/gamesense-legit-tools
+
 local screenX, screenY = client.screen_size()
 local maxFovRef = ui.reference('LEGIT', 'Aimbot', 'Maximum FOV')
 local circleCheckBox = ui.new_checkbox('LEGIT', 'Other', 'FOV Circle')
