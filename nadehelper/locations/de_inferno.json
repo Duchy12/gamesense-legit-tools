@@ -357,5 +357,45 @@
     "weapon": "weapon_smokegrenade",
     "position": [1255.8392333984, 96.732757568359, 252.8824005127],
     "viewangles": [9.8107738494873, -139.50073242188]
+  },
+  {
+    "name": ["Ramp", "Quad"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-246.0485534668, 909.96630859375, 14.415390968323],
+    "viewangles": [-15.628695487976, -21.288190841675],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Second Mid", "Library"],
+    "weapon": "weapon_smokegrenade",
+    "position": [492.17608642578, -267.98727416992, 88.03125],
+    "viewangles": [-20.812219619751, 37.713813781738],
+    "grenade": {
+      "jump": true
+    }
+  },
+  {
+    "name": ["Top Mid", "Arch"],
+    "weapon": "weapon_smokegrenade",
+    "position": [941.91198730469, 415.58026123047, 88.479263305664],
+    "viewangles": [-34.265712738037, 39.28462600708]
+  },
+  {
+    "name": ["Pit", "1 WAY"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2460.0314941406, -35.03125, 98.03125],
+    "viewangles": [2.9500658512115, 179.43499755859]
+  },
+  {
+    "name": ["Pit", "1 WAY"],
+    "description": "Jump On The Front Of The Bycicle",
+    "weapon": "weapon_smokegrenade",
+    "position": [2456.0161132813, -163.96875, 87.03125],
+    "viewangles": [-79.695114135742, -140.77746582031],
+    "grenade": {
+      "strength": 0
+    }
   }
 ]
