@@ -7,8 +7,8 @@ local menuTable = {
     "Maximum FOV"
 }
 local multiSelect = ui.new_multiselect("Legit", "Aimbot", "Randomize", menuTable)
-local minFOV = ui.new_slider("Legit", "Aimbot", "Min FOV", 0, 90, 10, true, "°", 1)
-local maxFOV = ui.new_slider("Legit", "Aimbot", "Max FOV", 0, 90, 10, true, "°", 1)
+local minFOV = ui.new_slider("Legit", "Aimbot", "Min FOV", 0, 900, 10, true, "°", 0.1)
+local maxFOV = ui.new_slider("Legit", "Aimbot", "Max FOV", 0, 900, 10, true, "°", 0.1)
 local minSpeed = ui.new_slider("Legit", "Aimbot", "Min Speed", 0, 700, 10, true, "", 0.01)
 local maxSpeed = ui.new_slider("Legit", "Aimbot", "Max Speed", 0, 700, 10, true, "", 0.01)
 local minAttackSpeed = ui.new_slider("Legit", "Aimbot", "Min Speed (in attack)", 0, 700, 10, true, "", 0.01)
