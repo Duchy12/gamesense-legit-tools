@@ -1,6 +1,6 @@
 {
         "name": "Legits",
         "description": "Nade data by Duchy",
-        "update_timestamp": 0,
+        "update_timestamp": 1680749539,
         "url_format": "https://raw.githubusercontent.com/Duchy12/gamesense-legit-tools/main/nadehelper/locations/%map%.json"
 }
