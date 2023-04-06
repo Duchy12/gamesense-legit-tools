@@ -17,11 +17,8 @@ local minReaction = ui.new_slider("Legit", "Aimbot", "Min Reaction", 0, 200, 10,
 local maxReaction = ui.new_slider("Legit", "Aimbot", "Max Reaction", 0, 200, 10, true, "ms", 1)
 
 
---Function to apply randomization
 client.set_event_callback("weapon_fire", function(e)
-    --Check if player is ingame
     if client.userid_to_entindex(e.userid) == entity.get_local_player() then
-            --Apply randomization
             for i = 1, #menuTable do
                 if ui.get(multiSelect)[i] then
                     local quickRef = ui.reference("Legit", "Aimbot", menuTable[i])
