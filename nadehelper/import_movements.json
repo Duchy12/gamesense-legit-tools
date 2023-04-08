@@ -1,0 +1,5 @@
+{
+    "name": "Movement Locations By Duchy",
+    "description": "Nade data by Duchy",
+    "url_format": "https://raw.githubusercontent.com/Duchy12/gamesense-legit-tools/main/nadehelper/locations_movement/%map%.json"
+}
