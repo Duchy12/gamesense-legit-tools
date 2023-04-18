@@ -1,0 +1,106 @@
+[
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_awp",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_scar20",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_m4a1",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_m4a1_silencer",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_ak47",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_ssg08",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_aug",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    },
+    {
+      "name": ["Balcony", "Barrels [AIM BY YOURSELF]"],
+      "description": "Keep Holding Crouch",
+      "weapon": "weapon_sg556",
+      "position": [-69.72875213623, 16.985250473022, 184.03125],
+      "viewangles": [1.3155870437622, 77.313331604004],
+      "duck": true,
+      "movement": {
+        "frames": [
+          1000
+        ]
+      }
+    }
+  ]
