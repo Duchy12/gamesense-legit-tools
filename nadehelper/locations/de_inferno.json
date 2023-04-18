@@ -392,10 +392,30 @@
     "name": ["Pit", "1 WAY"],
     "description": "Jump On The Front Of The Bycicle",
     "weapon": "weapon_smokegrenade",
-    "position": [2456.0161132813, -163.96875, 87.03125],
-    "viewangles": [-79.695114135742, -140.77746582031],
+    "position": [2456.03125, -163.96875, 87.03125],
+    "viewangles": [-80.826057434082, -135.64653015137],
     "grenade": {
       "strength": 0
+    }
+  },
+  {
+    "name": ["Ramp", "Mini Pit"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-639.40411376953, 510.98196411133, 76.03125],
+    "viewangles": [-21.989679336548, 4.4596462249756],
+    "grenade": {
+      "run": 42,
+      "jump": true
+    }
+  },
+  {
+    "name": ["Ramp", "Graveyard"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-573.96875, 905.96875, 24.03125],
+    "viewangles": [-20.070541381836, -13.78709602356],
+    "grenade": {
+      "run": 26,
+      "jump": true
     }
   }
 ]
