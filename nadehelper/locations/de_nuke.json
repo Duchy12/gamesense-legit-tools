@@ -20,11 +20,8 @@
   {
     "name": ["T Spawn", "Yard 1"],
     "weapon": "weapon_smokegrenade",
-    "position": [-682.9814453125, -1267.0445556641, -415.96875],
-    "viewangles": [-5.1542687416077, -53.979446411133],
-    "grenade": {
-      "run": 70
-    }
+    "position": [-560.22198486328, -1244.9481201172, -415.96875],
+    "viewangles": [-42.299419403076, -32.026439666748]
   },
   {
     "name": ["Roof", "Heaven"],
@@ -211,5 +208,300 @@
     "weapon": "weapon_flashbang",
     "position": [1235.7436523438, -395.00393676758, -415.96875],
     "viewangles": [-58.34545135498, -145.64668273926]
+  },
+  {
+    "name": ["Heaven", "Hut \/ Site"],
+    "weapon": "weapon_flashbang",
+    "position": [1259.9699707031, -316.03100585938, -127.96875],
+    "viewangles": [10.150545120239, -147.80661010742]
+  },
+  {
+    "name": ["Catwalk", "Silo"],
+    "description": "BREAK GLASS FIRST",
+    "weapon": "weapon_flashbang",
+    "position": [991.96899414063, -945.99499511719, -127.96875],
+    "viewangles": [-23.966552734375, -139.82987976074]
+  },
+  {
+    "name": ["Blue", "Outside"],
+    "weapon": "weapon_flashbang",
+    "position": [1275.2199707031, -1363.6099853516, -415.96890258789],
+    "viewangles": [-23.08039855957, -137.37107849121],
+    "grenade": {
+      "run": 25
+    }
+  },
+  {
+    "name": ["Small Box", "Outside \/ Silo"],
+    "weapon": "weapon_flashbang",
+    "position": [1135.3267822266, -1296.9787597656, -415.98419189453],
+    "viewangles": [-72.161735534668, -132.69706726074]
+  },
+  {
+    "name": ["Outside", "Secret"],
+    "weapon": "weapon_molotov",
+    "position": [-421.57696533203, -1755.5511474609, -415.97698974609],
+    "viewangles": [-13.775734901428, -20.679723739624],
+    "grenade": {
+      "run": 41
+    }
+  },
+  {
+    "name": ["Outside", "Blue"],
+    "weapon": "weapon_molotov",
+    "position": [33.21549987793, -2026.25, -415.96875],
+    "viewangles": [-13.956992149353, 14.165019035339],
+    "grenade": {
+      "run": 7
+    }
+  },
+  {
+    "name": ["Outside", "Secret"],
+    "weapon": "weapon_molotov",
+    "position": [176.32315063477, -2038.4403076172, -415.96875],
+    "viewangles": [-17.078680038452, -16.959449768066]
+  },
+  {
+    "name": ["Lobby", "Ramp Box"],
+    "weapon": "weapon_molotov",
+    "position": [97.031303405762, -94.973899841309, -415.96875],
+    "viewangles": [-5.2968139648438, 49.784523010254],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Lobby", "White Box"],
+    "weapon": "weapon_molotov",
+    "position": [65.00122833252, -170.33074951172, -415.96875],
+    "viewangles": [-7.2087526321411, 40.979415893555]
+  },
+  {
+    "name": ["Hut", "Heaven"],
+    "weapon": "weapon_molotov",
+    "position": [405.84722900391, -899.35504150391, -391.96875],
+    "viewangles": [-26.343011856079, 36.879573822021]
+  },
+  {
+    "name": ["Squeaky", "OLOF"],
+    "weapon": "weapon_molotov",
+    "position": [139.1490020752, -1359.9699707031, -415.96875],
+    "viewangles": [-14.984150886536, 26.940259933472],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Heaven", "Site"],
+    "weapon": "weapon_molotov",
+    "position": [1269.9699707031, -459.96899414063, -127.96875],
+    "viewangles": [-1.6514773368835, 150.07479858398]
+  },
+  {
+    "name": ["Heaven", "Hut"],
+    "weapon": "weapon_molotov",
+    "position": [1059.9848632813, -316.00634765625, -127.96945953369],
+    "viewangles": [9.2255039215088, -138.52774047852]
+  },
+  {
+    "name": ["Heaven", "Squeaky"],
+    "description": "ANTI VENT DROP",
+    "weapon": "weapon_molotov",
+    "position": [1008.0849609375, -457.60083007813, -127.96875],
+    "viewangles": [-1.1667251586914, -120.09281921387]
+  },
+  {
+    "name": ["Ramp", "Lobby"],
+    "weapon": "weapon_molotov",
+    "position": [955.96899414063, -227.96899414063, -415.96875],
+    "viewangles": [-6.0822906494141, 157.95599365234],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Outside", "Red"],
+    "weapon": "weapon_molotov",
+    "position": [1639.8199462891, -1273.3199462891, -414.16714477539],
+    "viewangles": [-13.956995010376, -130.08158874512],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["Single Door", "Hiding Spot"],
+    "weapon": "weapon_molotov",
+    "position": [205.23599243164, -1438.0699462891, -775.96875],
+    "viewangles": [-8.0761384963989, 50.683654785156],
+    "grenade": {
+      "run": 26
+    }
+  },
+  {
+    "name": ["B Site", "Left Ramp"],
+    "weapon": "weapon_molotov",
+    "position": [943.97399902344, -1359.9699707031, -767.96899414063],
+    "viewangles": [-17.844049453735, 111.90469360352],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": ["Ramp", "Hiding Spot"],
+    "weapon": "weapon_molotov",
+    "position": [804.00189208984, 95.941024780273, -639.96875],
+    "viewangles": [8.7019319534302, -88.738693237305]
+  },
+  {
+    "name": ["T Roof", "Olof"],
+    "description": "BREAK GLASS FIRST",
+    "weapon": "weapon_molotov",
+    "position": [-42.234298706055, -950.72399902344, -21.968761444092],
+    "viewangles": [-13.292388916016, -24.008075714111],
+    "grenade": {
+      "run": 13,
+      "run_speed": true
+    }
+  },
+  {
+    "name": ["T Roof", "Top Of Hut"],
+    "description": "BREAK GLASS FIRST",
+    "weapon": "weapon_molotov",
+    "position": [16.110614776611, -939.52630615234, -21.968761444092],
+    "viewangles": [-8.4775648117065, -36.470623016357],
+    "grenade": {
+      "run": 2
+    }
+  },
+  {
+    "name": ["T Roof", "Site"],
+    "description": "BREAK GLASS FIRST",
+    "weapon": "weapon_molotov",
+    "position": [2.6179528236389, -768.52557373047, -92.434593200684],
+    "viewangles": [-22.7164478302, 11.545907020569]
+  },
+  {
+    "name": ["T Spawn", "Deep Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-363.77749633789, -1442.8328857422, -287.96899414063],
+    "viewangles": [-30.953792572021, -14.268164634705]
+  },
+  {
+    "name": ["T Spawn", "Cross"],
+    "description": "BETWEEN RED & CLOSE BOXES",
+    "weapon": "weapon_smokegrenade",
+    "position": [-536.6630859375, -1484.7360839844, -415.96875],
+    "viewangles": [-3.9259438514709, -55.869075775146],
+    "grenade": {
+      "run": 70
+    }
+  },
+  {
+    "name": ["T Spawn", "Garage"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-284.16732788086, -1961.1772460938, -415.96875],
+    "viewangles": [-17.405126571655, 1.3962523937225]
+  },
+  {
+    "name": ["T Spawn", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-242.0892791748, -2024.1450195313, -415.96875],
+    "viewangles": [-18.748956680298, 9.9851026535034],
+    "grenade": {
+      "run": 29
+    }
+  },
+  {
+    "name": ["T Spawn", "Blue"],
+    "description": "BLOCKS SMALL BOX",
+    "weapon": "weapon_smokegrenade",
+    "position": [28.407375335693, -2006.6887207031, -415.96875],
+    "viewangles": [-23.422773361206, 22.68638420105]
+  },
+  {
+    "name": ["Lobby", "Main \/ Drop"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-306.57998657227, -974.92797851563, -415.96875],
+    "viewangles": [-4.3099551200867, -41.152488708496],
+    "grenade": {
+      "run": 29
+    }
+  },
+  {
+    "name": ["Lobby", "Hut"],
+    "weapon": "weapon_smokegrenade",
+    "position": [176.97155761719, -895.02996826172, -415.96875],
+    "viewangles": [-4.2293667793274, -63.701313018799]
+  },
+  {
+    "name": ["Lobby", "Ramp"],
+    "weapon": "weapon_smokegrenade",
+    "position": [251.99299621582, -449.98675537109, -415.96875],
+    "viewangles": [-7.2503452301025, 126.69203948975],
+    "grenade": {
+      "run": 10
+    }
+  },
+  {
+    "name": ["Ramp", "Control Room"],
+    "weapon": "weapon_smokegrenade",
+    "position": [720.41497802734, 246.1909942627, -590.51849365234],
+    "viewangles": [5.2968249320984, -72.105285644531],
+    "grenade": {
+      "run": 14
+    }
+  },
+  {
+    "name": ["Heaven", "Hut"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1259.96875, -316.03125, -127.96875],
+    "viewangles": [-3.3029587268829, -150.6495513916]
+  },
+  {
+    "name": ["Admin", "Lobby"],
+    "description": "ANTI PUSH",
+    "weapon": "weapon_smokegrenade",
+    "position": [1213.8199462891, -25.176700592041, -415.96875],
+    "viewangles": [-7.8344626426697, 170.91770935059],
+    "grenade": {
+      "run": 35
+    }
+  },
+  {
+    "name": ["CT Spawn", "Outside"],
+    "weapon": "weapon_smokegrenade",
+    "position": [2157.1657714844, -514.69720458984, -352.42169189453],
+    "viewangles": [-26.462600708008, -136.81089782715],
+    "grenade": {
+      "run": 17
+    }
+  },
+  {
+    "name": ["Outside", "Outside"],
+    "description": "BETWEEN RED & MAIN",
+    "weapon": "weapon_smokegrenade",
+    "position": [1509.7877197266, -1154.2911376953, -415.96908569336],
+    "viewangles": [2.4786605834961, -134.67153930664],
+    "grenade": {
+      "run": 43
+    }
+  },
+  {
+    "name": ["Silo", "Heaven"],
+    "weapon": "weapon_smokegrenade",
+    "position": [62.306701660156, -1430.8100585938, -89.96875],
+    "viewangles": [-21.428916931152, 49.560844421387]
+  },
+  {
+    "name": ["T Roof", "Secret"],
+    "weapon": "weapon_smokegrenade",
+    "position": [82.76139831543, -666.48199462891, -109.45383453369],
+    "viewangles": [-32.747638702393, -55.913208007813]
+  },
+  {
+    "name": ["T Roof", "Main"],
+    "weapon": "weapon_smokegrenade",
+    "position": [-263.96875, -650.00323486328, -155.98069763184],
+    "viewangles": [-32.202194213867, -26.636541366577]
   }
 ]
