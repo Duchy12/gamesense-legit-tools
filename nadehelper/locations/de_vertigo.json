@@ -1,183 +1,445 @@
 [
-    {
-      "name": ["A Ramp", "Site Corner"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-656.03125, -1016.96875, 11648.022460938],
-      "viewangles": [-35.85453414917, 142.95123291016]
-    },
-    {
-      "name": ["Elevator", "A Ramp"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-919.02844238281, -14.685899734497, 11776.03125],
-      "viewangles": [-27.15389251709, -83.641700744629],
-      "grenade": {
-        "run": 20
-      }
-    },
-    {
-      "name": ["A Ramp Corner", "Site Door"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-841.9697265625, -1359.96875, 11648.03125],
-      "viewangles": [-29.403844833374, 63.529426574707]
-    },
-    {
-      "name": ["A Ramp", "Heaven"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-726.81463623047, -1122.6748046875, 11648.03125],
-      "viewangles": [-58.12077331543, 66.544929504395]
-    },
-    {
-      "name": ["A Ramp", "Default"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-879.96875, -1026.9353027344, 11648.03125],
-      "viewangles": [-75.220741271973, 32.9091796875]
-    },
-    {
-      "name": ["Ramp Ledge", "Big Doors"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-604.03125, -1527.7751464844, 11843.03125],
-      "viewangles": [-11.5799036026, 82.13102722168],
-      "grenade": {
-        "run": 20
-      }
-    },
-    {
-      "name": ["Ramp Corner", "Site Boxes"],
-      "weapon": "weapon_molotov",
-      "position": [-1055.96875, -1434.9974365234, 11784.03125],
-      "viewangles": [-2.3032443523407, 42.274002075195],
-      "grenade": {
-        "jump": true
-      }
-    },
-    {
-      "name": ["T Spawn", "Construction"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1418.03125, -1599.9858398438, 11489.03125],
-      "viewangles": [-80.733520507813, 55.340274810791],
-      "grenade": {
-        "jump": true
-      }
-    },
-    {
-      "name": ["Mid", "CT"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1969.96875, -72.167251586914, 11776.03125],
-      "viewangles": [-11.136071205139, 26.158138275146]
-    },
-    {
-      "name": ["Mid", "B Heaven"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1947.5308837891, -295.99761962891, 11799.03125],
-      "viewangles": [-16.049396514893, 54.183544158936]
-    },
-    {
-      "name": ["Mid", "Elevators"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1969.96875, -150.23400878906, 11776.03125],
-      "viewangles": [-15.256492614746, 37.07772064209],
-      "grenade": {
-        "run": 16
-      }
-    },
-    {
-      "name": ["Corridor", "B Heaven"],
-      "weapon": "weapon_molotov",
-      "position": [-2032.3189697266, -578.76904296875, 11776.03125],
-      "viewangles": [-22.59726524353, 62.58544921875]
-    },
-    {
-      "name": ["Stairs", "Site Entrance"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-2470.96875, -295.96875, 11664.03125],
-      "viewangles": [-42.898548126221, 52.153076171875]
-    },
-    {
-      "name": ["Stairs", "Stacked Boxes"],
-      "description": "LEFT SIDE",
-      "weapon": "weapon_smokegrenade",
-      "position": [-2101.1918945313, -73.96875, 11565.943359375],
-      "viewangles": [-34.883117675781, 128.15646362305]
-    },
-    {
-      "name": ["Tunnels", "Default"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-2352.9975585938, -614.65484619141, 11488.03125],
-      "viewangles": [-54.02942276001, 84.554489135742]
-    },
-    {
-      "name": ["Tunnels", "Stacked Boxes"],
-      "description": "RIGHT SIDE",
-      "weapon": "weapon_smokegrenade",
-      "position": [-2352.9975585938, -614.65484619141, 11488.03125],
-      "viewangles": [-54.150272369385, 88.099411010742]
-    },
-    {
-      "name": ["Under Stairs", "Electrical"],
-      "description": "Left",
-      "weapon": "weapon_smokegrenade",
-      "position": [-2533.96875, -3.96875, 11552.03125],
-      "viewangles": [-68.20970916748, 54.594009399414]
-    },
-    {
-      "name": ["Under Stairs", "Electrical"],
-      "description": "Right",
-      "weapon": "weapon_smokegrenade",
-      "position": [-2533.96875, -3.96875, 11552.03125],
-      "viewangles": [-69.116081237793, 42.00647354126]
-    },
-    {
-      "name": ["Site Box", "1 WAY"],
-      "description": "Move to the left",
-      "weapon": "weapon_smokegrenade",
-      "position": [-2064.7155761719, 886.51147460938, 11829.03125],
-      "viewangles": [28.318223953247, -143.96635437012],
-      "duck": true
-    },
-    {
-      "name": ["B Heaven", "Tunnel Entrance"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1394.03125, 673.03125, 11841.022460938],
-      "viewangles": [-34.791355133057, -157.33477783203]
-    },
-    {
-      "name": ["Mid Entrance", "Unnamed"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1187.96875, 362.89840698242, 11776.03125],
-      "viewangles": [5.3273210525513, -158.28160095215],
-      "grenade": {
-        "jump": true
-      }
-    },
-    {
-      "name": ["Lobby", "Side"],
-      "description": "Gap on the left",
-      "weapon": "weapon_smokegrenade",
-      "position": [-86.03125, 138.96875, 11776.020507813],
-      "viewangles": [-21.990285873413, -116.43647003174],
-      "grenade": {
-        "run": 6
-      }
-    },
-    {
-      "name": ["Lobby", "Ramp"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-86.03125, 138.96875, 11776.03125],
-      "viewangles": [-28.721113204956, -106.72522735596],
-      "grenade": {
-        "run": 42
-      }
-    },
-    {
-      "name": ["Lobby", "Ramp Anti Push"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-495.20883178711, 238.71148681641, 11776.03125],
-      "viewangles": [-59.577239990234, -81.30509185791]
-    },
-    {
-      "name": ["CT", "Site"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-1267.4594726563, 995.96875, 11776.03125],
-      "viewangles": [-21.714052200317, -157.9984588623]
-    }
-  ]
+{
+  "name": ["A Ramp", "Site Corner"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-656.03125, -1016.96875, 11648.022460938],
+  "viewangles": [-35.85453414917, 142.95123291016]
+},
+{
+  "name": ["Elevator", "A Ramp"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-919.02844238281, -14.685899734497, 11776.03125],
+  "viewangles": [-27.15389251709, -83.641700744629],
+  "grenade": {
+    "run": 20
+  }
+},
+{
+  "name": ["A Ramp Corner", "Site Door"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-841.9697265625, -1359.96875, 11648.03125],
+  "viewangles": [-29.403844833374, 63.529426574707]
+},
+{
+  "name": ["A Ramp", "Heaven"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-726.81463623047, -1122.6748046875, 11648.03125],
+  "viewangles": [-58.12077331543, 66.544929504395]
+},
+{
+  "name": ["A Ramp", "Default"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-879.96875, -1026.9353027344, 11648.03125],
+  "viewangles": [-75.220741271973, 32.9091796875]
+},
+{
+  "name": ["Ramp Ledge", "Big Doors"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-604.03125, -1527.7751464844, 11843.03125],
+  "viewangles": [-11.5799036026, 82.13102722168],
+  "grenade": {
+    "run": 20
+  }
+},
+{
+  "name": ["Ramp Corner", "Site Boxes"],
+  "weapon": "weapon_molotov",
+  "position": [-1055.96875, -1434.9974365234, 11784.03125],
+  "viewangles": [-2.3032443523407, 42.274002075195],
+  "grenade": {
+    "jump": true
+  }
+},
+{
+  "name": ["T Spawn", "Construction"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1418.03125, -1599.9858398438, 11489.03125],
+  "viewangles": [-80.733520507813, 55.340274810791],
+  "grenade": {
+    "jump": true
+  }
+},
+{
+  "name": ["Mid", "CT"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1969.96875, -72.167251586914, 11776.03125],
+  "viewangles": [-11.136071205139, 26.158138275146]
+},
+{
+  "name": ["Mid", "B Heaven"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1947.5308837891, -295.99761962891, 11799.03125],
+  "viewangles": [-16.049396514893, 54.183544158936]
+},
+{
+  "name": ["Mid", "Elevators"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1969.96875, -150.23400878906, 11776.03125],
+  "viewangles": [-15.256492614746, 37.07772064209],
+  "grenade": {
+    "run": 16
+  }
+},
+{
+  "name": ["Corridor", "B Heaven"],
+  "weapon": "weapon_molotov",
+  "position": [-2032.3189697266, -578.76904296875, 11776.03125],
+  "viewangles": [-22.59726524353, 62.58544921875]
+},
+{
+  "name": ["Stairs", "Site Entrance"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-2470.96875, -295.96875, 11664.03125],
+  "viewangles": [-42.898548126221, 52.153076171875]
+},
+{
+  "name": ["Stairs", "Stacked Boxes"],
+  "description": "LEFT SIDE",
+  "weapon": "weapon_smokegrenade",
+  "position": [-2101.1918945313, -73.96875, 11565.943359375],
+  "viewangles": [-34.883117675781, 128.15646362305]
+},
+{
+  "name": ["Tunnels", "Default"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-2352.9975585938, -614.65484619141, 11488.03125],
+  "viewangles": [-54.02942276001, 84.554489135742]
+},
+{
+  "name": ["Tunnels", "Stacked Boxes"],
+  "description": "RIGHT SIDE",
+  "weapon": "weapon_smokegrenade",
+  "position": [-2352.9975585938, -614.65484619141, 11488.03125],
+  "viewangles": [-54.150272369385, 88.099411010742]
+},
+{
+  "name": ["Under Stairs", "Electrical"],
+  "description": "Left",
+  "weapon": "weapon_smokegrenade",
+  "position": [-2533.96875, -3.96875, 11552.03125],
+  "viewangles": [-68.20970916748, 54.594009399414]
+},
+{
+  "name": ["Under Stairs", "Electrical"],
+  "description": "Right",
+  "weapon": "weapon_smokegrenade",
+  "position": [-2533.96875, -3.96875, 11552.03125],
+  "viewangles": [-69.116081237793, 42.00647354126]
+},
+{
+  "name": ["Site Box", "1 WAY"],
+  "description": "Move to the left",
+  "weapon": "weapon_smokegrenade",
+  "position": [-2064.7155761719, 886.51147460938, 11829.03125],
+  "viewangles": [28.318223953247, -143.96635437012],
+  "duck": true
+},
+{
+  "name": ["B Heaven", "Tunnel Entrance"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1394.03125, 673.03125, 11841.022460938],
+  "viewangles": [-34.791355133057, -157.33477783203]
+},
+{
+  "name": ["Mid Entrance", "Unnamed"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1187.96875, 362.89840698242, 11776.03125],
+  "viewangles": [5.3273210525513, -158.28160095215],
+  "grenade": {
+    "jump": true
+  }
+},
+{
+  "name": ["Lobby", "Side"],
+  "description": "Gap on the left",
+  "weapon": "weapon_smokegrenade",
+  "position": [-86.03125, 138.96875, 11776.020507813],
+  "viewangles": [-21.990285873413, -116.43647003174],
+  "grenade": {
+    "run": 6
+  }
+},
+{
+  "name": ["Lobby", "Ramp"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-86.03125, 138.96875, 11776.03125],
+  "viewangles": [-28.721113204956, -106.72522735596],
+  "grenade": {
+    "run": 42
+  }
+},
+{
+  "name": ["Lobby", "Ramp Anti Push"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-495.20883178711, 238.71148681641, 11776.03125],
+  "viewangles": [-59.577239990234, -81.30509185791]
+},
+{
+  "name": ["CT", "Site"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1267.4594726563, 995.96875, 11776.03125],
+  "viewangles": [-21.714052200317, -157.9984588623]
+},
+{
+  "name": ["Ramp", "A Short Boost"],
+  "weapon": "weapon_molotov",
+  "position": [-1007.710144043, -538.03125, 11611.03125],
+  "viewangles": [10.170696258545, -72.527198791504],
+  "duck": true
+},
+{
+  "name": ["Heaven", "Site"],
+  "weapon": "weapon_flashbang",
+  "position": [-495.20883178711, 238.96875, 11776.03125],
+  "viewangles": [-34.600219726563, -68.876373291016]
+},
+{
+  "name": ["Ramp", "Site"],
+  "weapon": "weapon_flashbang",
+  "position": [-723.13000488281, -1071.6402587891, 11648.03125],
+  "viewangles": [-36.895111083984, 1.5270812511444]
+},
+{
+  "name": ["Construction", "Site"],
+  "weapon": "weapon_flashbang",
+  "position": [-901.96875, -1334.03125, 11715.03125],
+  "viewangles": [-20.683738708496, 57.333972930908]
+},
+{
+  "name": ["Short", "Short Pop"],
+  "description": "Turn Around",
+  "weapon": "weapon_flashbang",
+  "position": [-1165.9699707031, -1039.9699707031, 11776.03125],
+  "viewangles": [-20.462188720703, 49.865356445313]
+},
+{
+  "name": ["Walkway", "Mid"],
+  "weapon": "weapon_flashbang",
+  "position": [-2047.9699707031, -571.40301513672, 11776.03125],
+  "viewangles": [-20.38165473938, 40.325328826904]
+},
+{
+  "name": ["Hall", "Mid Pop"],
+  "weapon": "weapon_flashbang",
+  "position": [-1567.9699707031, 7.9916801452637, 11776.03125],
+  "viewangles": [-7.1698293685913, -118.42510223389],
+  "grenade": {
+    "run": 13
+  }
+},
+{
+  "name": ["Hall", "Site"],
+  "weapon": "weapon_flashbang",
+  "position": [-1660.7814941406, -74.03125, 11776.03125],
+  "viewangles": [-13.574301719666, 140.04835510254]
+},
+{
+  "name": ["T Spawn", "Stairs Pop"],
+  "weapon": "weapon_flashbang",
+  "position": [-2192.03125, -619.43487548828, 11488.03125],
+  "viewangles": [-48.134651184082, 130.15309143066]
+},
+{
+  "name": ["Stairs", "Electrical Pop"],
+  "weapon": "weapon_flashbang",
+  "position": [-2374.2578125, -112.99180603027, 11552.03125],
+  "viewangles": [-37.621520996094, 66.835342407227]
+},
+{
+  "name": ["Site", "Ramp Pop"],
+  "weapon": "weapon_flashbang",
+  "position": [-417.93688964844, -860.61724853516, 11805.03125],
+  "viewangles": [-59.754062652588, -179.54397583008]
+},
+{
+  "name": ["Short", "Ramp Pop"],
+  "weapon": "weapon_flashbang",
+  "position": [-1055.9699707031, -528.01202392578, 11776.03125],
+  "viewangles": [-9.848461151123, -40.964378356934]
+},
+{
+  "name": ["Heaven", "Ramp"],
+  "weapon": "weapon_flashbang",
+  "position": [-63.006401062012, -80.031303405762, 11776.03125],
+  "viewangles": [-13.574350357056, -107.56385803223]
+},
+{
+  "name": ["Elevators", "Sidewalk Pop"],
+  "weapon": "weapon_flashbang",
+  "position": [-759.27856445313, -385.96875, 11776.03125],
+  "viewangles": [-28.437614440918, -156.65928649902]
+},
+{
+  "name": ["Mid", "Stairs"],
+  "description": "Supprorts B",
+  "weapon": "weapon_flashbang",
+  "position": [-1435.5100097656, 88.004600524902, 11776.03125],
+  "viewangles": [-19.273948669434, 149.20185852051]
+},
+{
+  "name": ["Heaven", "Stairs"],
+  "description": "Supports B",
+  "weapon": "weapon_flashbang",
+  "position": [-1423.03125, 694.00445556641, 11776.03125],
+  "viewangles": [-15.850176811218, -164.19845581055]
+},
+{
+  "name": ["Electrical", "Electrical"],
+  "description": "Retake",
+  "weapon": "weapon_flashbang",
+  "position": [-1750.78125, 749.27423095703, 11776.03125],
+  "viewangles": [-37.359672546387, -109.18299102783]
+},
+{
+  "name": ["Ramp", "Sandbags"],
+  "weapon": "weapon_molotov",
+  "position": [-879.97808837891, -801.47698974609, 11596.401367188],
+  "viewangles": [-25.960409164429, -39.815017700195]
+},
+{
+  "name": ["Construction", "Element"],
+  "weapon": "weapon_molotov",
+  "position": [-901.96875, -1359.96875, 11715.03125],
+  "viewangles": [-17.864181518555, 65.500442504883]
+},
+{
+  "name": ["Ramp", "Boost"],
+  "weapon": "weapon_molotov",
+  "position": [-879.96875, -1295.953125, 11648.03125],
+  "viewangles": [-33.392223358154, 41.387351989746]
+},
+{
+  "name": ["Construction", "Short Corner"],
+  "weapon": "weapon_molotov",
+  "position": [-920.01824951172, -1095.8392333984, 11648.03125],
+  "viewangles": [-39.534782409668, 89.311515808105]
+},
+{
+  "name": ["Stairs", "Backsite"],
+  "weapon": "weapon_molotov",
+  "position": [-2245.4821777344, -186.05908203125, 11616.03125],
+  "viewangles": [-30.250232696533, 82.682014465332]
+},
+{
+  "name": ["Stairs", "Pillar"],
+  "weapon": "weapon_molotov",
+  "position": [-2554.1704101563, -3.941025018692, 11619.03125],
+  "viewangles": [-22.979301452637, 91.067024230957]
+},
+{
+  "name": ["CT", "Site"],
+  "weapon": "weapon_molotov",
+  "position": [-1042.96875, 975.17266845703, 11776.03125],
+  "viewangles": [-13.598516464233, -170.34652709961]
+},
+{
+  "name": ["Backsite", "Stairs"],
+  "description": "Anti-Push",
+  "weapon": "weapon_molotov",
+  "position": [-2051.3879394531, 1036.03125, 11747.595703125],
+  "viewangles": [-8.740761756897, -109.84515380859]
+},
+{
+  "name": ["Mid", "Catwalk"],
+  "weapon": "weapon_molotov",
+  "position": [-1511.9892578125, 140.39947509766, 11776.03125],
+  "viewangles": [-13.93546962738, 165.54011535645]
+},
+{
+  "name": ["Mid", "Backsite"],
+  "weapon": "weapon_molotov",
+  "position": [-1765.6170654297, 19.998992919922, 11776.03125],
+  "viewangles": [-16.87589263916, 129.78823852539]
+},
+{
+  "name": ["Site", "Construction"],
+  "weapon": "weapon_molotov",
+  "position": [-316.66549682617, -617.94799804688, 11826.330078125],
+  "viewangles": [-10.974925994873, -144.5947265625]
+},
+{
+  "name": ["Site", "Sandbags"],
+  "weapon": "weapon_molotov",
+  "position": [-63.000339508057, -221.35528564453, 11776.03125],
+  "viewangles": [-17.380754470825, -91.83039855957]
+},
+{
+  "name": ["Construction", "Default"],
+  "weapon": "weapon_molotov",
+  "position": [-1055.9699707031, -1339.03125, 11784.03125],
+  "viewangles": [-17.360652923584, 57.022754669189]
+},
+{
+  "name": ["Ramp", "Right Site"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-464.02124023438, -1136.03125, 11712.025390625],
+  "viewangles": [-13.936848640442, 51.575176239014]
+},
+{
+  "name": ["Ramp", "Left Site"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-656.03125, -1016.96875, 11648.03125],
+  "viewangles": [-11.706997871399, 142.86187744141],
+  "grenade": {
+    "jump": true
+  }
+},
+{
+  "name": ["Mid", "Heaven"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-1969.96875, -273.53085327148, 11799.03125],
+  "viewangles": [-14.259111404419, 50.246021270752]
+},
+{
+  "name": ["Mid", "Mid"],
+  "description": "Anti-Lurk",
+  "weapon": "weapon_smokegrenade",
+  "position": [-1841.6716308594, 73.616828918457, 11776.03125],
+  "viewangles": [2.5792953968048, 39.290828704834]
+},
+{
+  "name": ["Stairs", "Electrical"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-2374.2712402344, -112.96875, 11552.03125],
+  "viewangles": [-62.695816040039, 57.538944244385]
+},
+{
+  "name": ["Site", "Crane 1WAY"],
+  "description": "Hold From Around Here",
+  "weapon": "weapon_smokegrenade",
+  "position": [-63.03125, -80.03125, 11776.03125],
+  "viewangles": [-10.956152915955, -113.68882751465]
+},
+{
+  "name": ["Boost", "Scaffolding"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-63.03125, -354.99389648438, 11776.03125],
+  "viewangles": [-26.786165237427, -143.62385559082]
+},
+{
+  "name": ["Site", "Ramp"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-347.03125, -682.81579589844, 11774.1328125],
+  "viewangles": [-11.902729034424, -164.72856140137]
+},
+{
+  "name": ["Elevators", "Siodewalk"],
+  "description": "Retake",
+  "weapon": "weapon_smokegrenade",
+  "position": [-759.49963378906, -385.96875, 11776.03125],
+  "viewangles": [-45.0719871521, -140.05575561523]
+},
+{
+  "name": ["Heaven", "Default"],
+  "description": "Retake",
+  "weapon": "weapon_smokegrenade",
+  "position": [-251.23663330078, 238.71920776367, 11783.03125],
+  "viewangles": [-57.801879882813, -115.48260498047]
+},
+{
+  "name": ["Backsite", "Stairs"],
+  "weapon": "weapon_smokegrenade",
+  "position": [-2112.96875, 917.03125, 11776.03125],
+  "viewangles": [-14.561239242554, -100.87158203125]
+}
+]
